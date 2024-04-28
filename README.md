@@ -1,5 +1,5 @@
 
-# Algorithm 
+# Algorithm  
 
 - Binary Search ✅
 - Quick Sort ✅
