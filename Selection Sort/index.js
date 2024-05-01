@@ -6,7 +6,7 @@ function seletionSort(arraylist) {
       if (arraylist[j] < arraylist[smallest]) {
         smallest = j;
       }
-    }
+    } 
 
     [arraylist[i], arraylist[smallest]] = [arraylist[smallest], arraylist[i]];
   }

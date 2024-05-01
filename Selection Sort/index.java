@@ -6,7 +6,7 @@ public class index {
                 if (arrayList[j] < arrayList[smallest]) {
                     smallest = j;
                 }
-            }
+            } 
             int temp = arrayList[i];
             arrayList[i] = arrayList[smallest];
             arrayList[smallest] = temp;
