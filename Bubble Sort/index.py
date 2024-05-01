@@ -1,6 +1,6 @@
 def bubbleSort(arrayList):
     listLength = len(arrayList) - 1
-
+ 
     for i in range(listLength):
         for j in range(listLength - i):
             if arrayList[j] > arrayList[j + 1]:

@@ -1,6 +1,6 @@
 function bubbleSort(arrayList){
     const listLength = arrayList.length - 1;
-
+ 
     for(let i = 0; i < listLength; i++){
         for(let j = 0; j < listLength - i; j++){
             if(arrayList[j] > arrayList[j + 1]){
