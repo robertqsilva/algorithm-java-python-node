@@ -21,7 +21,7 @@ def quickSort(arrayList, left = 0, rigth = None):
                 [arrayList[left], arrayList[rigth]] = [arrayList[rigth], arrayList[left]]
                 left+=1
                 rigth-=1
-        
+         
         return left
     
     if left >= rigth:

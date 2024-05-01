@@ -26,7 +26,7 @@ function quicksort(arrayList, left = 0, rigth = arrayList.length - 1) {
   if (left >= rigth) {
     return;
   }
-
+ 
   const index_pivot = partion(left, rigth);
   quicksort(arrayList, left, index_pivot - 1);
   quicksort(arrayList, index_pivot, rigth);

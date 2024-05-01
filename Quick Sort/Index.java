@@ -7,7 +7,7 @@ public class Index {
         while (left <= right) {
             while (arrayList[left] < pivot) {
                 left++;
-            }
+            } 
 
             while (arrayList[right] > pivot) {
                 right--;
