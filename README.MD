@@ -4,7 +4,7 @@
 - Binary Search ✅
 - Quick Sort ✅
 - Bubble Sort ✅
-- Insertion Sort
+- Insertion Sort ✅
 - Selection Sort
 - Merge Sort
 - Heap Sort
