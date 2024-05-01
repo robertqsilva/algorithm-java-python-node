@@ -14,7 +14,7 @@ function birarySearch(numberList, target) {
     } else if (target < element) {
       end = mid - 1;
     }
-  }
+  } 
   return -1;
 }
 

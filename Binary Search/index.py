@@ -2,7 +2,7 @@ import math
 
 def binarySerach(arrayList, target):
     start = 0
-    end = len(arrayList) - 1
+    end = len(arrayList) - 1 
 
     while start <= end:
         mid = math.floor((start + end) / 2)

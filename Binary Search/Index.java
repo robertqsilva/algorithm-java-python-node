@@ -1,7 +1,7 @@
 
 public class Index {
 
-    static int BinarySearch(int[] arrayList, int target) {
+    static int BinarySearch(int[] arrayList, int target) { 
 
         int start = 0;
         int end = arrayList.length - 1;
