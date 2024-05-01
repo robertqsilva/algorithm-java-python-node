@@ -1,7 +1,7 @@
 public class index {
 
     static void insertionSort(int[] arrayList) {
-
+ 
         for (int i = 1; i < arrayList.length; i++) {
             int indexLeft = i - 1;
 

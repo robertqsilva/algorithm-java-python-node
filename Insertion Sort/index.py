@@ -4,7 +4,7 @@ def insertionSort(arrayList):
     for i in range(1, len(arrayList)):
         indexLeft = i - 1
         elementRigth = arrayList[i]
-
+ 
         while indexLeft >= 0 and elementRigth < arrayList[indexLeft]:
             arrayList[indexLeft + 1] = arrayList[indexLeft]
             indexLeft-=1
