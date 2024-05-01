@@ -13,6 +13,7 @@ public class index {
         }
     }
 
+    
     public static void main(String[] args) {
         int[] array = { 3, 8, 10, 7, 10, 23, 2, 11, 100, 1, 77 };
         selectionSort(array);
