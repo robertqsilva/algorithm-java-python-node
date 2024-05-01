@@ -5,7 +5,7 @@
 - Quick Sort ✅
 - Bubble Sort ✅
 - Insertion Sort ✅
-- Selection Sort
+- Selection Sort ✅
 - Merge Sort
 - Heap Sort
 - Counting Sort
