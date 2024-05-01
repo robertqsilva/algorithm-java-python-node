@@ -1,5 +1,3 @@
-package quickSort;
-
 public class Index {
 
     static int partion(int[] arrayList, int left, int right) {
